@@ -1,0 +1,14 @@
+C:\tmp\my-github\my-CSharpClient-for-Kafka\src\myown\bin\Debug\KafkaNET.Library.XML
+C:\tmp\my-github\my-CSharpClient-for-Kafka\src\myown\bin\Debug\myown.dll
+C:\tmp\my-github\my-CSharpClient-for-Kafka\src\myown\bin\Debug\myown.pdb
+C:\tmp\my-github\my-CSharpClient-for-Kafka\src\myown\bin\Debug\log4net.dll
+C:\tmp\my-github\my-CSharpClient-for-Kafka\src\myown\bin\Debug\log4net.xml
+C:\tmp\my-github\my-CSharpClient-for-Kafka\src\myown\obj\Debug\myown.dll
+C:\tmp\my-github\my-CSharpClient-for-Kafka\src\myown\obj\Debug\myown.pdb
+C:\tmp\my-github\my-CSharpClient-for-Kafka\src\myown\bin\Debug\ZooKeeperNet.dll
+C:\tmp\my-github\myown\bin\Debug\KafkaNET.Library.XML
+C:\tmp\my-github\myown\bin\Debug\myown.dll
+C:\tmp\my-github\myown\bin\Debug\myown.pdb
+C:\tmp\my-github\myown\obj\Debug\myown.dll
+C:\tmp\my-github\myown\obj\Debug\myown.pdb
+C:\tmp\my-github\myown\obj\Debug\myown.csprojResolveAssemblyReference.cache
